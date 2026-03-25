@@ -1,45 +1,8 @@
-/clanky
-/dataset_30_04.json
-/dataset_nedele_2.json
-/dataset_nedelni_V.json
-/data_layoffs.ipynb
-/DA_Python_eh.code-workspace
-/duvody_v_layoffs_08_05.csv
-/duvody_v_layoffs_14_05.csv
-/duvody_v_layooffs.ipynb
-/flitr_chybejicich_clanku.ipynb
-/je_tam_duvod_vypovedi.csv
-/je_tam_duvod_vypovedi_prubezne.csv
-/kategorizace.csv
-/kontrolni_kody_12_05.ipynb
-/Layoffs.fyi_Tech_Layoffs_Tracker_Original.csv
-/LAYOFFS_FINAL_17_05_14H.csv
-/LAYOFFS_FINAL_17_05_15H.csv
-/LAYOFFS_FINAL_21_05 (1).csv
-/layoffs_s_duvody_hackaton.csv
-/Leni_2_nasdaq_nyse_vypocet_procent_zmeny (2).csv
-/Leni_country_all_locations_for_tableau (1).csv
-/Leni_LayoffsFinal.csv
-/nedelni_layoffs.csv
-/ocistene_komplet.csv
-/ocisteny_layoffs
-/ocisteny_layoffs.csv
-/pocte_url_v_datasetu_nedele.py
-/posledni_layoffs.csv
-/projekt_1_Hackaton_DOPOLEDNE.twbx
-/Projekt_2_HACKATON_ODPOLEDNE.twbx
-/screens
-/tabulka_pro_testovani.ipynb
-/testovani_promptu.csv
-/URLs.txt
-/Veru_kategorizace_duvodu.csv
-/vzorek_data_layoffs.json
-/vzorek_scraping_J.json
-/vzorek_scraping_l.json
-/vzorek_scraping_v.json
-/yes_clanky_15_05
-/zaloha_data_layoffs.ipynb
-/zarovnane_akciove_casove_rady.csv
-/ze stažených
-/zkracovani_komplet_15_05.csv
-/zkracovani_prubezne.csv
+*.csv
+*.json
+*.docx
+*.jpg
+*.txt
+*.html
+*.png
+*.twbx
