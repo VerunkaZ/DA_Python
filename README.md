@@ -3,11 +3,12 @@
 End-to-end data analysis project exploring layoffs in technology companies in the context of AI adoption.  
 Focus: real-world data pipeline, statistical validation, and business-oriented insights.
 
-→ **Live Dashboard:**  
-https://public.tableau.com/app/profile/lenka.hanakova/viz/PropoutntechnologickchfiremvdobAI/Dashboard1?publish=yes  
+![Preview of the dashboard for Layoffs analytics](dashboard_preview.png)
 
-→ **Project Article (methodology & context):**  
-https://medium.com/@zpevakova.vero/propou%C5%A1t%C4%9Bn%C3%AD-technologick%C3%BDch-firem-v-%C3%A9%C5%99e-ai-1d5acb3e05de  
+
+[Live dashboard](https://public.tableau.com/app/profile/lenka.hanakova/viz/PropoutntechnologickchfiremvdobAI/Dashboard1?publish=yes)  
+ 
+[Blog](https://medium.com/@zpevakova.vero/propou%C5%A1t%C4%9Bn%C3%AD-technologick%C3%BDch-firem-v-%C3%A9%C5%99e-ai-1d5acb3e05de)  
 
 ---
 
